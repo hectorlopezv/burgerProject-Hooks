@@ -10,7 +10,8 @@ const IngredientForm = React.memo(props => {
   const [Amount, setAmount] = useState('');
   const [Title, setTitle] = useState('');
 
-
+  console.log('Rendering INGREDIENT FORM');
+  
  
 
 
